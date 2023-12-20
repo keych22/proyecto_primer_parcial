@@ -1,0 +1,6 @@
+
+{
+    "matematica": ["exponente", "raiz", "logaritmo", "pitagoras"],
+    "programacion": ["burbujeo", "excepcion", "bucle", "archivo"],
+    "deportes": ["natacion", "esgrima", "judo", "halterofilia"]
+}
